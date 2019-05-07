@@ -1,0 +1,24 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.css');
+
+.row{
+    margin-left: 0cm;
+    overflow: hidden;
+}
+
+#image{
+    overflow: hidden;
+    align-self: auto;
+}
+
+#image:hover{
+    transform: rotate(359.8deg);
+}
+
+.column{
+    width: 50%;
+}
+
+h3{
+    text-align: center;
+    margin-top: 50px
+}
